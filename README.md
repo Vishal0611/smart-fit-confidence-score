@@ -36,6 +36,7 @@ To review the full documentation and design specifications, click the links belo
 **Artifact:** Cost Analysis & Logic
 
 * **Focus:** The **calculation and methodology** used to prove the 10% reduction and derive the **$225,000 cost avoidance.**
+<img width="943" height="1015" alt="Dashboard" src="https://github.com/user-attachments/assets/d2860dd5-3382-4e4d-ae5e-cd5d135e220e" />
 
 ---
 
